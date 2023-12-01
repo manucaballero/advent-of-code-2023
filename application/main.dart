@@ -1,5 +1,6 @@
-import 'package:advent_of_code_2023/advent_of_code_2023.dart' as advent_of_code_2023;
+import 'package:advent_of_code_2023/day01/day01.dart' as day01;
 
 void main(List<String> arguments) {
-  print('Hello world: ${advent_of_code_2023.calculate()}!');
+  
+  print(day01.partA());
 }
